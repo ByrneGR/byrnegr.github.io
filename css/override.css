@@ -2,3 +2,7 @@
 .col-md-12 {
     transform: translateY(-20%);
 }
+
+#skill-icons {
+    width: 20%;
+}
