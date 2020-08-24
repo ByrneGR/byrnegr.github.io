@@ -138,32 +138,60 @@
        
         /* Magnific Popup */
 
-        $('.portfolio-popup').magnificPopup({
-            type: 'image',
+        // $('.portfolio-popup').magnificPopup({
+        //     type: 'image',
 			
-            gallery: { enabled: true },
-			zoom: { enabled: true,
-			        duration: 500
+        //     gallery: { enabled: true },
+		// 	zoom: { enabled: true,
+		// 	        duration: 500
 					
-          },
+        //   },
 		  
-         image:{
-               markup: '<div class="mfp-figure portfolio-pop-up">'+
-               '<div class="mfp-close"></div>'+
-               '<div class="mfp-img"></div>'+
-               '<div class="mfp-bottom-bar portfolio_title">'+
-               '<div class="mfp-title"></div>'+
-               '<div class="mfp-counter"></div>'+
-               '</div>'+
-               '</div>',
+        //  image:{
+        //        markup: '<div class="mfp-figure portfolio-pop-up">'+
+        //        '<div class="mfp-close"></div>'+
+        //        '<div class="mfp-img"></div>'+
+        //        '<div class="mfp-bottom-bar portfolio_title">'+
+        //        '<div class="mfp-title"></div>'+
+        //        '<div class="mfp-counter"></div>'+
+        //        '</div>'+
+        //        '</div>',
 
-               titleSrc:function(item){
-                return item.el.attr('title');
-              }
-            }
+        //        titleSrc:function(item){
+        //         return item.el.attr('title');
+        //       }
+        //     }
 		  
 		  
-          });
+        //   });
+
+        $('.portfolio-popup').magnificPopup({
+            items: {
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title">ChillSession</h1><span>Audio visualizer and social network for music enthusiasts</span></div>',
+                type: 'inline'
+            },
+            closeBtnInside: true
+        });
+
+        //     image: {
+        //         markup: '<div class="mfp-figure portfolio-pop-up">' +
+        //             '<div class="mfp-close"></div>' +
+        //             '<div class="mfp-img"></div>' +
+        //             '<div class="mfp-bottom-bar portfolio_title">' +
+        //             '<div class="mfp-title"></div>' +
+        //             '<div class="mfp-counter"></div>' +
+        //             '</div>' +
+        //             '</div>',
+
+        //         titleSrc: function (item) {
+        //             return item.el.attr('title');
+        //         }
+        //     }
+
+
+        // });
+
+
 
        
 	   
