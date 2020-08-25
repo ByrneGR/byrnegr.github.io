@@ -42,7 +42,14 @@ margin-top: 20px
 }
 
 #download-resume {
-    padding-bottom: 5%;
+    padding: 2%;
+    background-color: rgb(113, 190, 113);
+    display: table-cell;
+    vertical-align: middle;
+    border-radius: 50px
+      /* top: 50%; */
+      /* transform: translateY(-50%); */
+
 }
 
 .about-me-header {
@@ -64,5 +71,23 @@ margin-top: 20px
 .about-me-links {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 1px;
+    height: 100%;
+    font-family: 'Poppins',
+    sans-serif;
+    margin-bottom: 5%;
+}
+
+.about-me-links a{
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 1px;
+    height: 100%;
+    font-family: 'Poppins',
+        sans-serif;
 }
 
