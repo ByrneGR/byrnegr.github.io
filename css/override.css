@@ -31,11 +31,31 @@
 .img-responsive {
 border: 1px solid #ddd;
 border-radius: 4px;
-width: 531px;
-height: 550x;
-padding: 100px 0px;
-/* text-align: center;
-      position: relative; */
-/* transform: translate(30%, 5%); */
+width: 425px;
+/* height: 4400x; */
+margin-top: 20px
+}
+
+#headshot-container {
+    display: flex;
+    justify-content: center;
+}
+
+#download-resume {
+    padding-bottom: 5%;
+}
+
+.about-me-header {
+    padding-bottom: 3%;
+    text-align: center;
+}
+
+.about-me-container {
+    padding-bottom: 5%;
+    margin-right: 5%;
+}
+
+.about-me-p {
+    padding-bottom: 3%;
 }
 
