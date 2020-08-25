@@ -15,3 +15,15 @@
     max-width: 500px;
     margin: 20px auto;
 }
+
+#chillsesion_title {
+    text-align: center;
+}
+
+#chromerec {
+    font-style: italic;
+}
+
+#windygogo_list {
+    padding-left: 10%;
+}

@@ -165,9 +165,25 @@
 		  
         //   });
 
-        $('.portfolio-popup').magnificPopup({
+        $('.portfolio-popup-windygogo').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title">ChillSession</h1><span>Audio visualizer and social network for music enthusiasts</span></div>',
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Windygogo</h1><span>Clone of crowdfunding site, indiegogo.com, replicating its core features: <br></br> <ul id="windygogo_list"><li>Campaign creation</li><li>Campaign contributions</li><li>User profiles</li></ul></span><br><a target="_blank" href="https://aa-windygogo.herokuapp.com/#/home">Live Link </a><br><a target="_blank" href="https://github.com/ByrneGR/Full-Stack---WindyGoGo">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                type: 'inline'
+            },
+            closeBtnInside: true
+        });
+
+        $('.portfolio-popup-chillsession').magnificPopup({
+            items: {
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">ChillSession</h1><span>Audio visualizer and social network for music enthusiasts</span><br></br><a target="_blank" href="https://byrnegr.github.io/hotairballoons/">Live Link </a><span id="chromerec">(works best on Chrome)</span><br><a target="_blank" href="https://github.com/ByrneGR/hotairballoons">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                type: 'inline'
+            },
+            closeBtnInside: true
+        });
+
+        $('.portfolio-popup-fmp').magnificPopup({
+            items: {
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Find My Pawrents</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
                 type: 'inline'
             },
             closeBtnInside: true
