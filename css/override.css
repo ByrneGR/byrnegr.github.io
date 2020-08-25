@@ -27,3 +27,15 @@
 #windygogo_list {
     padding-left: 10%;
 }
+
+.img-responsive {
+border: 1px solid #ddd;
+border-radius: 4px;
+width: 531px;
+height: 550x;
+padding: 100px 0px;
+/* text-align: center;
+      position: relative; */
+/* transform: translate(30%, 5%); */
+}
+
