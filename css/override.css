@@ -46,7 +46,7 @@ margin-top: 20px
     background-color: rgb(113, 190, 113);
     display: table-cell;
     vertical-align: middle;
-    border-radius: 50px
+    border-radius: 50px;
       /* top: 50%; */
       /* transform: translateY(-50%); */
 
@@ -70,7 +70,7 @@ margin-top: 20px
 
 .about-me-links {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
     font-size: 16px;
     font-weight: 400;
