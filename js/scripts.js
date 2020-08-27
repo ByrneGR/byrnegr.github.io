@@ -193,23 +193,23 @@
         //work popups
         $('.work-popup-industrious').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Find My Pawrents</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Industrious</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
                 type: 'inline'
             },
             closeBtnInside: true
         });    
 
-        $('.work-popup-industrious').magnificPopup({
+        $('.work-popup-ampush').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Find My Pawrents</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Ampush</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
                 type: 'inline'
             },
             closeBtnInside: true
         });     
-           
-        $('.work-popup-industrious').magnificPopup({
+
+        $('.work-popup-statestreet').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Find My Pawrents</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">State Street</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
                 type: 'inline'
             },
             closeBtnInside: true
