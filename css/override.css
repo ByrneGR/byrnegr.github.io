@@ -31,9 +31,9 @@
 .img-responsive {
 border: 1px solid #ddd;
 border-radius: 4px;
-width: 425px;
+width: 475px;
 /* height: 4400x; */
-margin-top: 20px
+margin-top: 2%
 }
 
 #headshot-container {
@@ -42,30 +42,31 @@ margin-top: 20px
 }
 
 #download-resume {
-    padding: 2%;
-    background-color: rgb(113, 190, 113);
-    display: table-cell;
-    vertical-align: middle;
-    border-radius: 50px;
-      /* top: 50%; */
-      /* transform: translateY(-50%); */
-
+    margin-bottom: 5%;
 }
 
 .about-me-header {
+    margin-top: 2%;
     padding-bottom: 3%;
     text-align: center;
 }
 
 .about-me-container {
-    padding-bottom: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
     margin-right: 5%;
 }
 
 .about-me-p {
-    padding-bottom: 3%;
+    /* padding-bottom: 3%; */
     text-align: left;
+    margin-bottom: 0px;
     /* line-height:  */
+}
+
+.portfolio-image {
+  border: 1px solid #ddd;
+  border-radius: 4px;
 }
 
 .about-me-links {
@@ -79,7 +80,7 @@ margin-top: 20px
     height: 100%;
     font-family: 'Poppins',
     sans-serif;
-    margin-bottom: 5%;
+    /* margin-bottom: 2%; */
 }
 
 .about-me-links a{
@@ -91,3 +92,45 @@ margin-top: 20px
         sans-serif;
 }
 
+#item-work {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.logo-image {
+    border-bottom: 1px solid #ddd;
+}
+
+.education-section {
+    background-color: #F9F9F9;
+}
+
+.education-image {
+    height: 100px;
+    border-bottom: 1px solid #ddd;
+}
+
+#item-education {
+    text-align: left;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  text-align: center;
+}
+
+.education-container {
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+        margin: 50px;
+}
+
+.education-list {
+    padding-left: 10%;
+    padding-top: 5%;
+}
+
+#education-all {
+    display: flex;
+    justify-content: space-evenly;
+}
