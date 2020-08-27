@@ -113,9 +113,8 @@ margin-top: 2%
 
 #item-education {
     text-align: left;
-  border: 1px solid #ddd;
   border-radius: 4px;
-  text-align: center;
+  text-align: left;
 }
 
 .education-container {
@@ -126,8 +125,8 @@ margin-top: 2%
 }
 
 .education-list {
-    padding-left: 10%;
-    padding-top: 5%;
+    /* padding-left: 10%; */
+    padding: 5% 5% 5% 10%;
 }
 
 #education-all {
