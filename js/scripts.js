@@ -168,7 +168,7 @@
         //project popups
         $('.portfolio-popup-windygogo').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Windygogo</h1><span>Clone of crowdfunding site, indiegogo.com, replicating its core features: <br></br> <ul id="windygogo_list"><li>Campaign creation</li><li>Campaign contributions</li><li>User profiles</li></ul></span><br><a target="_blank" href="https://aa-windygogo.herokuapp.com/#/home">Live Link </a><br><a target="_blank" href="https://github.com/ByrneGR/Full-Stack---WindyGoGo">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Windygogo</h1><span>Clone of crowdfunding site, indiegogo.com, replicating its core features: <br></br> <ul id="windygogo_list"><li>Campaign creation</li><li>Campaign contributions</li><li>User profiles</li></ul></span><br><a target="_blank" href="https://aa-windygogo.herokuapp.com/#/home">Live Link </a><br><a target="_blank" href="https://github.com/ByrneGR/Full-Stack---WindyGoGo">Github</a><br></br><img src="../images/portfolio/windygogo1.png"></div>',
                 type: 'inline'
             },
             closeBtnInside: true
@@ -184,7 +184,7 @@
 
         $('.portfolio-popup-fmp').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Find My Pawrents</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Find My Pawrents</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/findmypawrents1.png"></div>',
                 type: 'inline'
             },
             closeBtnInside: true
@@ -193,7 +193,7 @@
         //work popups
         $('.work-popup-industrious').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Industrious</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><a target="_blank" href="https://industriousoffice.com"><h1 class="portfolio-popup-title" id="chillsesion_title">Industrious</h1><p id="job-years">Aug 2018 - Apr 2020</p></a><span><ul id="windygogo_list"><li>Led company digital marketing strategy and execution, increasing paid digital leads by 56% HoH in 2019, resulting in a 118% increase in sales<br></br></li><li>Oversaw search engine optimization, managing initiatives related to website optimization, external link building and content strategy, resulting in a 28% increase in organic website traffic YoY</li><br><li>Collaborated with analytics team to build marketing attribution system and Tableau reporting infrastructure to measure ROI of campaign efforts</li></ul></span><br></div>',
                 type: 'inline'
             },
             closeBtnInside: true
@@ -201,7 +201,7 @@
 
         $('.work-popup-ampush').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">Ampush</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><a target="_blank" href="https://ampush.com"><h1 class="portfolio-popup-title" id="chillsesion_title">Ampush</h1></a><p id="job-years">Aug 2015 - Oct 2017</p><span><ul id="windygogo_list"><li>Built, managed, and optimized media campaigns across paid digital channels for clients, which included: University of Phoenix, StubHub, TuneIn, DocuSign, Xoom (a Paypal company)<br></br></li><li>Managed $12MM in annual ad spend, performing Excel analyses to determine profitable budget allocations</li><br><li>Founded and led company product marketing group that partnered with the Ampush Product + Engineering teams to develop promotional initiatives and improve product adoption for internal and external stakeholders</li></ul></span><br></div>',
                 type: 'inline'
             },
             closeBtnInside: true
@@ -209,7 +209,7 @@
 
         $('.work-popup-statestreet').magnificPopup({
             items: {
-                src: '<div class="white-popup"><h1 class="portfolio-popup-title" id="chillsesion_title">State Street</h1><span>Backend Lead for MERN stack application that simplifies the adoption process for dog shelters and pet seekers</span><br></br><a target="_blank" href="http://www.findmypawrents.com/#/">Live Link </a><br><a target="_blank" href="https://github.com/DanielGuardado/Find-my-Pawrents">Github</a><br></br><img src="../images/portfolio/chillsession.png"></div>',
+                src: '<div class="white-popup"><a target="_blank" href="https://www.statestreet.com/home.html"><h1 class="portfolio-popup-title" id="chillsesion_title">State Street</h1></a><p id="job-years">Jan 2013 - Jan 2014</p><span><ul id="windygogo_list"><li>Screened and processed 60-80 transactions daily, including securities, derivatives, and foreign exchange trades for large variety of banks and investment groups<br></br></li><li>Nominated to design and implement 3 day training program for new manager on department’s operations and procedures because of personal success rate and excellent communication skills</li><br></ul></span><br></div>',
                 type: 'inline'
             },
             closeBtnInside: true
