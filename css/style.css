@@ -80,7 +80,7 @@ img {
 }
 
 a:hover {
-    color: #fff;
+    color: rgb(160, 151, 151);
     text-decoration: none;
 }
 
@@ -427,7 +427,7 @@ body.loaded #preloader{
 
 .navigation-menu .navbar-nav li a:hover {
     background: none;
-    color: #fff;
+    color: rgb(102, 102, 226);
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
@@ -464,7 +464,7 @@ body.loaded #preloader{
 }
 
 .navigation-background .navigation-menu .navbar-nav li a:hover {
-    color: #fff;
+    color: rgb(102, 102, 226);
 }
 
 
